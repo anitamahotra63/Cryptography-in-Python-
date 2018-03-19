@@ -1,3 +1,4 @@
+#changed 3/19/2018
 #now this is a changed program
 ASCII_BITS = 8
 from Crypto.Cipher import AES
